@@ -16,7 +16,3 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
-//ini edit sama zakharia
-// ini ediat sama Hilmi
-// edit baru zakharia   
